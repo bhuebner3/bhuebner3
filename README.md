@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm passionate about using data science to solve c
 - **Tools**: Jupyter Notebook, Tableau, Git, VS Code, R Studio
 
 
-🌱 I’m currently learning: Data Engineering skills!
-
+## 🌱 Currently Learning
+Data Engineering Skills!
 **Tools**: Docker, Terraform, Airflow, BigQuery, dbt
 
 ## 📊 Projects
