@@ -4,9 +4,7 @@
 
 Welcome to my GitHub profile! I'm passionate about using data science to solve complex problems and make data-driven decisions. My academic background in statistics and management & data science has equipped me with a strong foundation in machine learning, statistical analysis, and data visualization. Here, you'll find projects showcasing my skills in Python, R, and various machine learning techniques.
 
-### 🛠 Data Science Skills
-
-## 💡 Skills
+### 🛠 Skills
 
 ### Data Science
 **Data Analysis**: Proficient in cleaning, transforming, and performing exploratory analysis to extract meaningful information from datasets.
