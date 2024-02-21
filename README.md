@@ -29,6 +29,7 @@ Data Engineering Skills!
 
 ## 📊 Projects
 
-- [**Recommender-System-LightGBM**](https://github.com/bhuebner3/Recommender-System-LightGBM): Developed a personalized fashion product recommender system using LightGBM and NLP techniques.    
+- [**Recommender-System-LightGBM**](https://github.com/bhuebner3/Recommender-System-LightGBM): Developed a personalized fashion product recommender system using LightGBM and NLP techniques.  
+  - **Topics:** [recommender-system](https://github.com/search?q=user:bhuebner3+topic:recommender-system) [boosting-algorithm](https://github.com/search?q=user:bhuebner3+topic:boosting-algorithm)  
 - [**FinCrime-Fraud-Detection**](https://github.com/bhuebner3/FinCrime-Fraud-Detection): Created models leveraging machine learning to mitigate fraud and credit risk in financial transactions.    
 - [**Market-Basket-Analysis**](https://github.com/bhuebner3/Market-Basket-Analysis): Analyzed transaction data to uncover purchasing patterns using Apriori and FP-Growth algorithms.  
