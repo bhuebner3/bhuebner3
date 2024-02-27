@@ -22,11 +22,6 @@ Welcome to my GitHub profile! I'm passionate about using data science to solve c
 - **SAS**: Knowledgeable in SAS for data manipulation, statistical modeling, and analysis.  
 - **Tools**: Jupyter Notebook, Tableau, Git, VS Code, R Studio
 
-
-## 🌱 Currently Learning
-Data Engineering Skills!  
-**Tools**: Docker, Terraform, Airflow, BigQuery, dbt
-
 ## 📊 Projects
 
 - [Recommender-System-LightGBM](https://github.com/bhuebner3/Recommender-System-LightGBM): Developed a personalized fashion product recommender system using LightGBM and compared results to baseline and UUCF. Extensive feature engineering using nlp, SVD, cosine similarity, and more. 
@@ -37,3 +32,7 @@ Data Engineering Skills!
 
 - [Market-Basket-Analysis](https://github.com/bhuebner3/Market-Basket-Analysis): Analyzed transaction data to uncover purchasing patterns using Apriori and FP-Growth algorithms.  
   - **Topics:** [![Static Badge](https://img.shields.io/badge/market--basket--analysis-darkorange)](https://github.com/search?q=user:bhuebner3+topic:market-basket-analysis) [![Static Badge](https://img.shields.io/badge/networkx-dimgray)](https://github.com/search?q=user:bhuebner3+topic:networkx) [![Static Badge](https://img.shields.io/badge/apriori-goldenrod)](https://github.com/search?q=user:bhuebner3+topic:apriori)
+
+## 🌱 Currently Learning
+Data Engineering Skills!  
+**Tools**: Docker, Terraform, Airflow, BigQuery, dbt
