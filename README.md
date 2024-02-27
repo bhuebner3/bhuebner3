@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about using data science to solve c
   - **Topics:** [![Static Badge](https://img.shields.io/badge/nlp-rebeccapurple)](https://github.com/search?q=user:bhuebner3+topic:nlp) [![Static Badge](https://img.shields.io/badge/huggingface-yellow)](https://github.com/search?q=user:bhuebner3+topic:huggingface) 
 
 - [Market-Basket-Analysis](https://github.com/bhuebner3/Market-Basket-Analysis): Analyzed transaction data to uncover purchasing patterns using Apriori and FP-Growth algorithms.  
-  - **Topics:** [![Static Badge](https://img.shields.io/badge/market--basket--analysis-darkorange)](https://github.com/search?q=user:bhuebner3+topic:market-basket-analysis) [![Static Badge](https://img.shields.io/badge/networkx-dimgray)](https://github.com/search?q=user:bhuebner3+topic:networkx) [![Static Badge](https://img.shields.io/badge/apriori-darkyellow)](https://github.com/search?q=user:bhuebner3+topic:apriori)
+  - **Topics:** [![Static Badge](https://img.shields.io/badge/market--basket--analysis-darkorange)](https://github.com/search?q=user:bhuebner3+topic:market-basket-analysis) [![Static Badge](https://img.shields.io/badge/networkx-dimgray)](https://github.com/search?q=user:bhuebner3+topic:networkx) [![Static Badge](https://img.shields.io/badge/apriori-mossgreen)](https://github.com/search?q=user:bhuebner3+topic:apriori)
 
 ## 🌱 Currently Learning
 Data Engineering Skills!  
