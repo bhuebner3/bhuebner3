@@ -24,16 +24,16 @@ Welcome to my GitHub profile! I'm passionate about using data science to solve c
 
 ## 📊 Projects
 
-- [Recommender-System-LightGBM](https://github.com/bhuebner3/Recommender-System-LightGBM): Developed a personalized fashion product recommender system using LightGBM and compared results to baseline and UUCF. Extensive feature engineering using nlp, SVD, cosine similarity, and more. 
+- [**Recommender-System-LightGBM**](https://github.com/bhuebner3/Recommender-System-LightGBM): Developed a personalized fashion product recommender system using LightGBM and compared results to baseline and UUCF. Extensive feature engineering using nlp, SVD, cosine similarity, and more. 
   - **Topics:** [![Static Badge](https://img.shields.io/badge/recommender--system-darkblue)](https://github.com/search?q=user:bhuebner3+topic:recommender-system) [![Static Badge](https://img.shields.io/badge/boosting--algorithms-darkred)](https://github.com/search?q=user:bhuebner3+topic:boosting-algorithms) [![Static Badge](https://img.shields.io/badge/nlp-rebeccapurple)](https://github.com/search?q=user:bhuebner3+topic:nlp) [![Static Badge](https://img.shields.io/badge/collaborative--filtering-darkslategray)](https://github.com/search?q=user:bhuebner3+topic:collaborative-filtering) [![Static Badge](https://img.shields.io/badge/knn-darksalmon)](https://github.com/search?q=user:bhuebner3+topic:knn)
 
-- [FinCrime-Fraud-Detection](https://github.com/bhuebner3/FinCrime-Fraud-Detection): Created models leveraging machine learning to mitigate fraud and credit risk in financial transactions. Creative and effective feature engineering performed using domain knowledge.
+- [**FinCrime-Fraud-Detection**](https://github.com/bhuebner3/FinCrime-Fraud-Detection): Created models leveraging machine learning to mitigate fraud and credit risk in financial transactions. Creative and effective feature engineering performed using domain knowledge.
   - **Topics:** [![Static Badge](https://img.shields.io/badge/boosting--algorithms-darkred)](https://github.com/search?q=user:bhuebner3+topic:boosting-algorithms) [![Static Badge](https://img.shields.io/badge/banking-darkgreen)](https://github.com/search?q=user:bhuebner3+topic:banking)
  
-- [Political-Bias-Detection](https://github.com/bhuebner3/Political-Bias-Detection): Employed transformers for implementing a pre-trained hugging face model for political lean prediction. Analysed reading behaviors based on user location.
+- [**Political-Bias-Detection**](https://github.com/bhuebner3/Political-Bias-Detection): Employed transformers for implementing a pre-trained hugging face model for political lean prediction. Analysed reading behaviors based on user location.
   - **Topics:** [![Static Badge](https://img.shields.io/badge/nlp-rebeccapurple)](https://github.com/search?q=user:bhuebner3+topic:nlp) [![Static Badge](https://img.shields.io/badge/huggingface-yellow)](https://github.com/search?q=user:bhuebner3+topic:huggingface) 
 
-- [Market-Basket-Analysis](https://github.com/bhuebner3/Market-Basket-Analysis): Analyzed transaction data to uncover purchasing patterns using Apriori and FP-Growth algorithms.  
+- [**Market-Basket-Analysis**](https://github.com/bhuebner3/Market-Basket-Analysis): Analyzed transaction data to uncover purchasing patterns using Apriori and FP-Growth algorithms.  
   - **Topics:** [![Static Badge](https://img.shields.io/badge/market--basket--analysis-darkorange)](https://github.com/search?q=user:bhuebner3+topic:market-basket-analysis) [![Static Badge](https://img.shields.io/badge/networkx-dimgray)](https://github.com/search?q=user:bhuebner3+topic:networkx) [![Static Badge](https://img.shields.io/badge/apriori-darkseagreen)](https://github.com/search?q=user:bhuebner3+topic:apriori)
 
 ## 🌱 Currently Learning
