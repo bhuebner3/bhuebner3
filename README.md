@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm passionate about using data science to solve complex problems and make data-driven decisions. My academic background in statistics and management & data science has equipped me with a strong foundation in machine learning, statistical analysis, and data visualization. Here, you'll find projects showcasing my skills in Python, R, and various machine learning techniques.
+Welcome to my GitHub profile! I'm passionate about using data science to solve complex problems and make data-driven decisions. My academic background in statistics and management & data science has equipped me with a strong foundation in machine learning, statistical analysis, and data visualization. Here, you'll find projects showcasing my skills in Python and various machine learning techniques.
 
 ## 🛠 Skills
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about using data science to solve c
 
 ### Programming Languages
 - **Python**: Advanced proficiency in Python, leveraging libraries like Pandas, NumPy, and scikit-learn for efficient data analysis and machine learning workflows.  
-- **R**: Competent in using R for statistical analysis and data visualization, employing packages like dplyr and ggplot2.  
+- **R**: Competent in using R for statistical analysis and data visualization, utilizing packages like dplyr and ggplot2.  
 - **SQL**: Comfortable with SQL for querying and manipulating databases to support data analysis tasks.  
 - **SAS**: Knowledgeable in SAS for data manipulation, statistical modeling, and analysis.  
 - **Tools**: Jupyter Notebook, Tableau, Git, VS Code, R Studio
